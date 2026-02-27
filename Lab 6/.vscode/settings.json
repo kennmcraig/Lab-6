@@ -60,13 +60,13 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Unity Learn _ Roll-A-Ball _ Completed Project Files_ URP.slnx",
+    "dotnet.defaultSolution": "Lab 6.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
