@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hottielez/Documents/GitHub/Lab 6/Unity Learn | Roll-A-Ball | Completed Project Files| URP/Temp/Burst/burst-aotgebg65n8.dgx/59547bd16525c4c825e3ef10a1108e11.bundle'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoSetCSRTrampoline(int bits) -> void_c25ec02111ffea3fbeb190633694eb91 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x50, symBinAddr: 0x4C0, symSize: 0x10 }
+  - { offset: 0x2B, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoSetCSRTrampoline(int bits) -> void_c25ec02111ffea3fbeb190633694eb91 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x50, symBinAddr: 0x4C0, symSize: 0x10 }
+  - { offset: 0x5A, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoGetCSRTrampoline() -> int_c25ec02111ffea3fbeb190633694eb91 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x50, symBinAddr: 0x520, symSize: 0x14 }
+  - { offset: 0x67, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoGetCSRTrampoline() -> int_c25ec02111ffea3fbeb190633694eb91 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x50, symBinAddr: 0x520, symSize: 0x14 }
+...
